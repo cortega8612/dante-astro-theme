@@ -10,15 +10,14 @@ seo:
 
 ![Alt text for image](/about.jpeg)
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
 
-## Ethan Donovan - Web Developer based in Estonia
+## Carlos Ortega-Morales - Product Owner and UX/UI Designer based in Houston, TX
 
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+**Hello!** I'm Carlos Ortega-Morales, Technical Product Owner, with more than a decade experience in UX/UI design, business analysis, and product management. I bring extensive experience in delivering IT solutions playing multiple roles across various industries, including Oil and Gas, Finance, Healthcare, Retail, and Food Services.
 
-## Skills and Expertise
+I am committed to delivering products that offer a unique user experience while meeting business objectives. My background in UX/UI design provides me with a sharp eye for detail and a thorough understanding of user-centered design principles. Additionally, my experience in business analysis and product management enables me to balance technical feasibility with the needs of the business. 
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+I have worked with cross-functional teams to deliver B2B and B2C applications, design systems, reporting solutions, robotic automations, RPA Center of Excellence frameworks, and other projects with emerging technologies.
 
 ## Innovation and Problem-Solving
 
