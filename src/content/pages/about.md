@@ -11,7 +11,8 @@ seo:
 ![Alt text for image](/about.jpeg)
 
 
-## Carlos Ortega-Morales - Product Owner and UX/UI Designer based in Houston, TX
+## Carlos Ortega-Morales 
+Product Owner and UX/UI Designer based in Houston, TX
 
 **Hello!** I'm Carlos Ortega-Morales, Technical Product Owner, with more than a decade experience in UX/UI design, business analysis, and product management. I bring extensive experience in delivering IT solutions playing multiple roles across various industries, including Oil and Gas, Finance, Healthcare, Retail, and Food Services.
 
@@ -22,10 +23,6 @@ I have worked with cross-functional teams to deliver B2B and B2C applications, d
 ## Innovation and Problem-Solving
 
 I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
-
-## Global Perspective, Local Impact
-
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
 
 ## Continuous Learning
 
