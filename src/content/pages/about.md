@@ -2,10 +2,10 @@
 title: About
 seo:
   title: About Me
-  description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
+  description: I hope you enjoy your visit to my website; I'm always happy to meet new individuals and talk about my professional career or offer advice. 
   image:
-    src: '/about.jpeg'
-    alt: A person sitting at a desk in front of a computer
+    src: '/carlosortega.jpeg'
+    alt: carlos ortega photo
 ---
 
 ![Alt text for image](/about.jpeg)
