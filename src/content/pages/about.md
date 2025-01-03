@@ -4,11 +4,11 @@ seo:
   title: About Me
   description: I hope you enjoy your visit to my website; I'm always happy to meet new individuals and talk about my professional career or offer advice. 
   image:
-    src: '/carlosortega.jpeg'
+    src: '/carlosortega2.png'
     alt: carlos ortega photo
 ---
 
-![Alt text for image](/carlosortega.jpeg)
+![Alt text for image](/carlosortega2.png)
 
 
 ## Carlos Ortega-Morales 
